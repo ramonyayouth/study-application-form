@@ -1,0 +1,29 @@
+{
+    "name": "Rehmonnyayouth",
+    "short_name": "RYEC",
+    "icons": [
+      {
+        "src": "ryeclogo.png",
+        "sizes": "256x256",
+        "type": "image/png"
+      },
+      {
+        "src": "ryeclogo.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+    "background_color": "black",
+    "categories": ["utilites", "productivity", "calculator"],
+    "screenshots" : [
+        {
+            "src": "ryeclogo.png",
+            "sizes": "1280x889",
+            "type": "image/jpeg",
+            "platform": "wide",
+            "label": "Calculator for iPad (using Stage Manager mode)"
+        }
+    ],
+    "display": "standalone",
+    "start_url": "/ryec/"
+}
